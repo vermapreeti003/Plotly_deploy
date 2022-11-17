@@ -6,13 +6,13 @@ Visit the Plotly Bellybutton Biodiversity dashboard here.
 
 ### Resources
 Data:
-samples.json
-Software/Application:
-JavaScript
-Plotly.js
-HTML/CSS
-Bootstrap
-D3 Visualization
+* samples.json
+* Software/Application:
+   * JavaScript
+   * Plotly.js
+   * HTML/CSS
+   * Bootstrap
+   * D3 Visualization
 ## Project Overview
 This project incorporated a dynamic and interactive visualization dashboard and charts using Plotly.js with a human belly button diversity dataset. Interactive dashboard and charts display bacteria that live inside the human body. Upon selection of an id number in a pull down list, the id metadata will be displayed in a div element and the top ten bacterial samples will be displayed in a pie chart and bubble chart.
 
